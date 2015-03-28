@@ -1,0 +1,17 @@
+/*
+Is very important that you copy paste the parent theme comment in the first part of style.css here.
+You can recognize that inside style.css cause it will have information about the theme, such as, author, author URI, tag, etc.
+
+Once you paste that here, delete this explanation and edit the lines below ("Descripion" and "Template") with your parent theme info.
+
+Description:  Place the theme description here
+Template:     This should be the name of the parent folder, otherwise wont work, very important
+*/
+
+/* You can try if this is working by removing the comments in the below line, it should change the background color to red */
+
+/*
+body {
+  background:red;
+}
+*/
